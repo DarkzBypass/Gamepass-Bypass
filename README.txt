@@ -1,5 +1,5 @@
 WHAT THIS DOES IS TRICKS THE GAME INTO THINKING YOU HAVE A GAMEPASS
-THIS IS FOR FREE! IF YOU PAYED YOU GOT SCAMMED
+THIS IS FOR FREE RN! IF YOU PAYED YOU GOT SCAMMED (ILL BE SELLING IT IN AUGUST 22)
 ---------------------------------------------------------------------
 Steps
 1. join a roblox game that has a gamepass
