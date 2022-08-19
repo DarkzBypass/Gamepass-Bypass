@@ -1,0 +1,13 @@
+var gamepassID = "ENTER GAMEPASS ID"; else nil
+var inject = Gods_Keybypass:InjectGamePass(gamepassID);
+
+inject.Start();
+
+gamepassID.id:CheckForID(function(true);
+	if gamepassID == nil then;
+	inject:Injection(FAIL);
+end
+while gamepass == gamepassID then
+	inject:Injection(SUCCESS);
+	inject.End();
+end)
