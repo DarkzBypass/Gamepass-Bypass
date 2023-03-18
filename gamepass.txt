@@ -1,4 +1,4 @@
-var gamepassID = "ENTER GAMEPASS ID"; else nil
+var gamepassID = "59909570"; else nil
 var inject = Gods_Keybypass:InjectGamePass(gamepassID);
 
 inject.Start();
